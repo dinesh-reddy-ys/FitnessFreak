@@ -1,2 +1,3 @@
-# FitnessFreak
-fitness app devlopment for long living
+#Decipline
+
+1. fitness app devlopment for long living.
