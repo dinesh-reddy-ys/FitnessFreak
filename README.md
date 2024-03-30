@@ -2,6 +2,7 @@
 
 
 1.Environment(KEY)
-2. Health(Need)
-2. Fitness(JOY)
-3. Happiness................
+2. Money
+3. Health(Need)
+4. Fitness(JOY)
+5. Happiness................
