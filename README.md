@@ -1,9 +1,11 @@
 #Way of living
 
 
-1.Ecosystem(KEY)
-2.Decipline
-3. Money(want)
-4. Health(Need)
-5. Fitness(JOY)
+
+1.MentalHealth(Need)
+2.Hardwork
+2. Money(want)
+3.Ecosystem(KEY)
+2.Decipline(??)
+4. Physical Health(Fun)
 6. Happiness................
