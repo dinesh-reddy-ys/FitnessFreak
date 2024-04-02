@@ -1,11 +1,12 @@
 #Way of living
-
-1. Freedom
-2. Community
-3. MentalHealth(Need)
-4. Hardwork
-5. Money(want)
-6. Ecosystem(KEY)
-7. Decipline(??)
-8. Physical Health(Fun)
-9. Happiness................
+1. Peace of mind
+2. Farmer
+3. Freedom
+4. Community
+5. MentalHealth(Need)
+6. Hardwork
+7. Money(want)
+8. Ecosystem(KEY)
+9. Decipline(??)
+10. Physical Health(Fun)
+11. Happiness................
