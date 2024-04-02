@@ -1,8 +1,9 @@
 #Way of living
 
 
-1.Environment(KEY)
-2. Money
-3. Health(Need)
-4. Fitness(JOY)
-5. Happiness................
+1.Ecosystem(KEY)
+2.Decipline
+3. Money(want)
+4. Health(Need)
+5. Fitness(JOY)
+6. Happiness................
